@@ -245,6 +245,7 @@ cc_library {
         "-Wno-unused-parameter",
         "-Wno-missing-field-initializers",
         "-Wno-implicit-fallthrough",
+        "-O3",
     ],
 
     afdo: true,
